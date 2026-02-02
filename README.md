@@ -1,6 +1,6 @@
 # 🚀 Instalador Inteligente Typebot (Multi-Ambiente)
 
-CONTATO: 55 (73) 9 8135-5929  * [WhatsApp](https://wa.me5573981355929)
+CONTATO PARA SUPORTE: 55 (73) 9 8135-5929  * [WhatsApp](https://wa.me5573981355929)
 
 Este script automatiza a instalação do **Typebot** via Docker, projetado especificamente para **conviver pacificamente** com outras aplicações no mesmo servidor (como Whaticket, Izing, Z-Pro) ou rodar sob gerenciamento de painéis (CloudPanel, Plesk).
 
